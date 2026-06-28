@@ -9,16 +9,25 @@ This repository contains a research project focused on identifying and analyzing
 
 ## Experts List
 AGUSTINA CORONEL
+-
 BRENDA VILLARROEL
+-
 ALEJANDRO SESSA
+-
 LUCÍA VICIANO
+-
 VIRGINIA LOPEZ
+-
 DAMASIA CAMPOS
+-
 PEDRO IGNACIO URRETS ZAVALIA
+-
 GUILLERMO ARAUJO
+-
 DANIEL ZWEIG
+-
 FERNANDO GONZALEZ
-
+-
 ## Research Files
 * `/research/sources.md`: Contains the list of experts and justifications.
 * `/research/linkedin-posts/`: Contains the collected content for each expert.
