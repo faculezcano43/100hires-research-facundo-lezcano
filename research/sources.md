@@ -27,7 +27,7 @@ Why I chose her: She brings a highly practical, revenue-focused perspective as t
 
  6. Damasia Campos
 Date: 2026-06-28
-Link: https://www.linkedin.com/in/damasia-campos/
+Link: https://www.linkedin.com/in/damasia-campos-10209b90/
 Why I chose her: She is a strong practitioner currently serving as Head of Marketing at WorldTeams. With a solid background as a Product Marketing Manager and a clear focus on scalable demand generation, brand positioning, and B2B SaaS revenue growth across LATAM and the US, she offers valuable, real-world go-to-market strategies.
 
  7. Pedro Ignacio Urrets Zavalia
